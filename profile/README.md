@@ -6,5 +6,7 @@ With locations in Germany, England, Portugal and China we provide close proximit
 
 Constant scrutiny and improvements of our internal processes and procedures, and the use of state-of-the-art equipment, are key factors in our sales philosophy that provides measurable added value to our customers.
 
-* **Website:** https://www.fastbolt.com
-* **Imprint:** https://www.fastbolt.com/impressum/
+* **Website:** [https://www.fastbolt.com](https://www.fastbolt.com/deutschland/)
+* **Imprint:** [https://www.fastbolt.com/impressum/](https://www.fastbolt.com/deutschland/impressum/)
+* **Privacy Policy:** [https://www.fastbolt.com/deutschland/datenschutzerklaerung/](https://www.fastbolt.com/deutschland/datenschutzerklaerung/)
+
